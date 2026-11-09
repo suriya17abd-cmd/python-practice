@@ -1,8 +1,8 @@
-# Python Calculator 🧮
+# Python Calculator 
 
 A beginner-friendly Python calculator that performs basic mathematical operations using user input and a custom function.
 
-## 🚀 Features
+##  Features
 
 - Addition (+)
 - Subtraction (-)
@@ -11,7 +11,7 @@ A beginner-friendly Python calculator that performs basic mathematical operation
 - Takes two numbers as input
 - Displays the calculation result
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Functions
@@ -19,7 +19,7 @@ A beginner-friendly Python calculator that performs basic mathematical operation
 - Conditional Statements
 - Modules and Imports
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 python-calculator/
@@ -29,7 +29,7 @@ python-calculator/
 └── README.md
 ```
 
-## ▶️ How to Run
+##  How to Run
 
 1. Download or clone this repository.
 2. Open the project folder in your terminal.
@@ -44,7 +44,7 @@ python main.py
 6. Select an operator (+, -, *, /).
 7. View your result.
 
-## 📌 Learning Goals
+##  Learning Goals
 
 This project helped me practise:
 
@@ -54,7 +54,7 @@ This project helped me practise:
 - Basic arithmetic operations
 - Running Python programs
 
-## 👨‍💻 Author
+##  Author
 
 Suriya
 
@@ -62,4 +62,4 @@ Aspiring Agentic AI Developer | BCA Final-Year Student
 
 ---
 
-⭐ This is one of my beginner Python practice projects as I continue learning Python and building my programming skills.
+* This is one of my beginner Python practice projects as I continue learning Python and building my programming skills.
